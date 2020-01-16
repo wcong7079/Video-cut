@@ -12,3 +12,6 @@ After running the program, first click "Select File", click "Start Play" and the
 
 2. 使用流程（中文版）：
 运行程序后，先点击“选择文件”，点击“开始播放”视频会在窗口中进行播放，当视频到达先要截取的部分时，点击“准备标记”，视频会停止，等待选择截取区域，使用鼠标左键点击图像上想要截取区域的左上角坐标，使用鼠标右键点击图像上想要截取区域的右下角坐标，图像会出现红色的框，为选择区域，如果想要重新选择，点击“清除标记”，点击“准备标记”，重新选择，点击“开始保存”，视频加载后，开始播放选择截取的区域视频，同时对视频进行保存，点击“停止保存”，视频停止。
+
+Everyone is welcome to improve the procedure.
+https://github.com/wcong7079/Video-cut
